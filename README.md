@@ -6,18 +6,18 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:0E3A44,100:00E5FF&height=200&section=header&text=Thabang%20Rakgalakane&fontSize=48&fontColor=00E5FF&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Tshwane%20University%20of%20Technology&descSize=18&descColor=00E5FF&descAlignY=60" alt="Thabang Rakgalakane banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:134348,50:1B5E63,100:C58DB5&height=200&section=header&text=Thabang%20Rakgalakane&fontSize=48&fontColor=F6D58E&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Tshwane%20University%20of%20Technology&descSize=18&descColor=F3DDEA&descAlignY=60" alt="Thabang Rakgalakane banner" />
 
 <a href="https://github.com/thabangboysen">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=640&lines=Building+practical+software;Java+%E2%80%A2+SQL+%E2%80%A2+Software+Design;Turning+real+problems+into+working+systems" alt="Typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=E7B04F&center=true&vCenter=true&width=640&lines=Building+practical+software;Java+%E2%80%A2+SQL+%E2%80%A2+Software+Design;Turning+real+problems+into+working+systems" alt="Typing tagline" />
 </a>
 
 <br/>
 
-<a href="https://linkedin.com/in/thabangboysen"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:thabangboysen@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://github.com/thabangboysen"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=thabangboysen&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge" alt="Profile views" />
+<a href="https://linkedin.com/in/thabangboysen"><img src="https://img.shields.io/badge/LINKEDIN-1B5E63?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:thabangboysen@gmail.com"><img src="https://img.shields.io/badge/GMAIL-C58DB5?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://github.com/thabangboysen"><img src="https://img.shields.io/badge/GITHUB-134348?style=for-the-badge&logo=github&logoColor=E7B04F" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=thabangboysen&label=PROFILE%20VIEWS&color=D9A441&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -81,8 +81,8 @@ I like projects with a real purpose, not just tutorials. My recent work is aimed
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thabangboysen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabangboysen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00E5FF&text_color=C9D1D9" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thabangboysen&show_icons=true&theme=tokyonight&bg_color=0F2F33&title_color=E7B04F&icon_color=E3A9CF&text_color=E8EEF0&border_color=1B5E63" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabangboysen&layout=compact&theme=tokyonight&bg_color=0F2F33&title_color=E7B04F&text_color=E8EEF0&border_color=1B5E63" alt="Top languages" />
 
 </div>
 
@@ -98,6 +98,6 @@ I'm always happy to talk about software, student projects, or opportunities.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0E3A44,100:0B0F19&height=110&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C58DB5,50:1B5E63,100:134348&height=110&section=footer" alt="footer" />
 
 </div>
