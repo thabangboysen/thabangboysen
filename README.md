@@ -1,9 +1,119 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 170" width="1280" height="170" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo2YWM5ZjFiOC0xN2M1LTRiN2ItODVkYy1lNmRlZjRmYjk4M2IAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaBXjpYHt1tMyvSq40A77OQ4AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo0NGRiNmNhOC05MjQ2LTQ0NDItODFhMi0xYmY1ZTc1NzUyOTBscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNofscIABugXPUVyDwTHtBRXwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggeaEcbLpuxixdn3gy0lJBRlG8/t3NTMsfMsWgzsVccgKkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaE2gp7iLclzQYJk78s6kSpIAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBK5MdJeCbu4Bc7mA1dfvbhrjvSa3svgmp59OESl1buimRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjZhYzlmMWI4LTE3YzUtNGI3Yi04NWRjLWU2ZGVmNGZiOTgzYi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmJhNzA2YzdhLThkNTMtNGEyZi1hOTI3LWYwMTYyOGQwZTUzZHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCB5oRxsum7GLF2feDLSUkFGUbz+3c1Myx8yxaDOxVxyAqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggkKUYvTcLcGTyX7rAHJbK7rpKWIW+jMCCdOjCY3IsYQeiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggvvPjXnWfiJbT0i62spiIScbpsJgRenUl7ivQTn+CcGN0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQHk3AotzzfiYCXVJpxGP0TgKeZ3wJttBGkGSmFgle9XfA6NBiyybuROMM8Kx9nDCv4nh5E2IZrSaIQYKZ+EtQqs=</c2pa:manifest></metadata>
-<defs><linearGradient id="f1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#34C3BC"/><stop offset=".5" stop-color="#1B5E63"/><stop offset="1" stop-color="#C58DB5"/></linearGradient></defs>
-<path fill="url(#f1)" opacity=".35" d="M0 70 C 200 20, 400 120, 640 70 S 1080 20, 1280 70 L1280 170 L0 170Z">
- <animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 70 C 200 20, 400 120, 640 70 S 1080 20, 1280 70 L1280 170 L0 170Z;M0 80 C 220 130, 420 20, 640 80 S 1060 130, 1280 80 L1280 170 L0 170Z;M0 70 C 200 20, 400 120, 640 70 S 1080 20, 1280 70 L1280 170 L0 170Z"/></path>
-<path fill="url(#f1)" opacity=".6" d="M0 100 C 240 60, 420 140, 660 100 S 1060 60, 1280 100 L1280 170 L0 170Z">
- <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 100 C 240 60, 420 140, 660 100 S 1060 60, 1280 100 L1280 170 L0 170Z;M0 105 C 240 140, 420 60, 660 105 S 1060 140, 1280 105 L1280 170 L0 170Z;M0 100 C 240 60, 420 140, 660 100 S 1060 60, 1280 100 L1280 170 L0 170Z"/></path>
-<path fill="#0F3A40" d="M0 135 C 300 110, 500 160, 760 135 S 1100 112, 1280 135 L1280 170 L0 170Z"/>
-<text x="640" y="152" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="5" fill="#F6D58E">THANKS FOR STOPPING BY</text>
-</svg>
+<!-- ============================================================
+  GitHub profile README for github.com/thabangboysen
+  ONE file only: paste this into README.md in your PUBLIC repo
+  named exactly "thabangboysen". No other files needed.
+  Lines marked EDIT are yours to change.
+============================================================= -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:134348,45:1B5E63,100:C58DB5&height=260&section=header&text=Thabang%20Rakgalakane&fontSize=56&fontColor=F6D58E&fontAlignY=36&desc=Computer%20Science%20Student%20%7C%20Tshwane%20University%20of%20Technology&descSize=19&descColor=F3DDEA&descAlignY=58&animation=fadeIn&stroke=34C3BC&strokeWidth=2" alt="Thabang Rakgalakane banner" />
+
+<a href="https://github.com/thabangboysen">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=E7B04F&center=true&vCenter=true&width=700&height=50&lines=Building+practical+software;Java+%E2%80%A2+SQL+%E2%80%A2+Web+Development;Turning+real+problems+into+working+systems;Open+to+part-time+%26+internship+opportunities" alt="Typing tagline" />
+</a>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/thabangboysen"><img src="https://img.shields.io/badge/LINKEDIN-1B5E63?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:thabangboysen@gmail.com"><img src="https://img.shields.io/badge/GMAIL-C58DB5?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://mphomafolosocceracademy.vercel.app/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-D9A441?style=for-the-badge&logo=vercel&logoColor=black" alt="Live project" /></a>
+<img src="https://komarev.com/ghpvc/?username=thabangboysen&label=PROFILE%20VIEWS&color=134348&style=for-the-badge" alt="Profile views" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:34C3BC,50:F0B94F,100:F0A7CE&height=3&section=header" width="70%" alt="" />
+
+</div>
+
+## 👋 About Me
+
+I'm a Computer Science student at the **Tshwane University of Technology**, based in Witbank (eMalahleni), South Africa. I like turning real, everyday needs into practical software, and I'm building my skills in programming, databases and web development one project at a time.
+
+I care about projects with a real purpose: things that real people can open, use and benefit from, not just tutorials that stay on my laptop.
+
+- 🎓 Studying **Computer Science** at TUT (since 2024)
+- 🛠️ Working with **Java**, **SQL** and **web development**
+- ⚽ Built and launched the live website for the **Mpho Mafolo Soccer Academy**
+- 🗣️ Fluent in **English, Sepedi and Zulu**, and conversational in Setswana
+- 🟢 **Open to part-time work and internship opportunities** <!-- EDIT: change to what you're looking for -->
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:34C3BC,50:F0B94F,100:F0A7CE&height=3&section=header" width="70%" alt="" /></div>
+
+## 🚀 Featured Project
+
+<div align="center">
+<a href="https://mphomafolosocceracademy.vercel.app/"><img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A1A1D,55:134348,100:2A1731&height=170&section=header&text=Mpho%20Mafolo%20Soccer%20Academy&fontSize=40&fontColor=F6D58E&fontAlignY=42&desc=Informational%20%26%20promotional%20website%20for%20a%20football%20academy&descSize=17&descColor=F3DDEA&descAlignY=66&stroke=34C3BC&strokeWidth=3" alt="Mpho Mafolo Soccer Academy website" /></a>
+
+<br/>
+
+<a href="https://mphomafolosocceracademy.vercel.app/"><img src="https://img.shields.io/badge/%E2%9A%BD%20VISIT%20THE%20LIVE%20SITE-1B5E63?style=for-the-badge&labelColor=134348" alt="Visit the live site" /></a>
+<img src="https://img.shields.io/badge/WEBSITE-134348?style=for-the-badge" alt="Website" />
+<img src="https://img.shields.io/badge/MULTI--PAGE-C58DB5?style=for-the-badge" alt="Multi-page" />
+<img src="https://img.shields.io/badge/DEPLOYED%20ON-VERCEL-D9A441?style=for-the-badge&logo=vercel&logoColor=black" alt="Deployed on Vercel" />
+
+</div>
+
+<br/>
+
+### ⚽ Mpho Mafolo Soccer Academy Website
+
+The **Mpho Mafolo Soccer Academy Website** is an informational and promotional site built to showcase the academy's programs, values and activities. It gives parents, players and the wider community one easy place to learn about the academy, see what it stands for, and get in touch.
+
+The site is built around the way families actually look for a football academy:
+
+- 🏠 **A clear first impression:** a bold landing page that introduces the academy's mission of *inspiring the next generation* and developing football talent and skills.
+- 💡 **Why Us:** a page explaining what sets the academy apart and what it values, so parents can feel confident before joining.
+- 📸 **Gallery:** photos and videos that show the players, training and the spirit of the academy in action.
+- 🤝 **Support Us:** a page for people and businesses who want to back the academy and help young players grow.
+- 📞 **Contact Us:** simple ways to reach the academy with questions.
+- 💬 **One-tap membership:** a "Become a Member" button that opens a WhatsApp chat with the academy, making it easy for parents to sign up or ask questions straight from their phone.
+- 📱 **Social media links:** quick links to the academy's Facebook, TikTok, YouTube and Instagram so the community can follow the latest news, videos and events.
+- 🌍 **Live and always available:** deployed on Vercel, so it can be opened from anywhere, at any time.
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:34C3BC,50:F0B94F,100:F0A7CE&height=3&section=header" width="70%" alt="" /></div>
+
+## 🧰 Tech & Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,mysql,html,git,github,vercel,vscode&theme=dark" alt="Tech stack icons" />
+
+</div>
+<!-- EDIT: add more icons as you learn them, e.g. css,js,python,react. Full list: https://skillicons.dev -->
+
+| Area | What I work with |
+| --- | --- |
+| 💻 **Programming** | Java, object-oriented programming |
+| 🗄️ **Databases** | SQL, database design |
+| 🌐 **Web** | Building and deploying websites (Vercel) |
+| 📐 **Foundations** | Discrete mathematics, problem solving |
+| 🤝 **Soft skills** | Teamwork, communication, time management, willingness to learn |
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:34C3BC,50:F0B94F,100:F0A7CE&height=3&section=header" width="70%" alt="" /></div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thabangboysen&show_icons=true&theme=tokyonight&bg_color=0F2F33&title_color=E7B04F&icon_color=E3A9CF&text_color=E8EEF0&border_color=1B5E63" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabangboysen&layout=compact&theme=tokyonight&bg_color=0F2F33&title_color=E7B04F&text_color=E8EEF0&border_color=1B5E63" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=thabangboysen&background=0F2F33&ring=F0A7CE&fire=E7B04F&currStreakLabel=E7B04F&sideLabels=F6D58E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9&stroke=1B5E63" alt="GitHub streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thabangboysen&bg_color=0F2F33&color=E7B04F&line=34C3BC&point=F0A7CE&area=true&area_color=1B5E63&hide_border=true&title_color=F6D58E" alt="Contribution activity graph" />
+
+</div>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:34C3BC,50:F0B94F,100:F0A7CE&height=3&section=header" width="70%" alt="" /></div>
+
+## 📫 Let's Connect
+
+I'm always happy to talk about software, student projects, or opportunities.
+
+- 📧 **Email:** [thabangboysen@gmail.com](mailto:thabangboysen@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/thabangboysen](https://linkedin.com/in/thabangboysen)
+- ⚽ **Live project:** [mphomafolosocceracademy.vercel.app](https://mphomafolosocceracademy.vercel.app/)
+- 📍 **Location:** Witbank (eMalahleni), South Africa
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C58DB5,50:1B5E63,100:134348&height=130&section=footer&text=Thanks%20for%20stopping%20by&fontSize=20&fontColor=F6D58E&fontAlignY=72&animation=fadeIn" alt="Thanks for stopping by" />
