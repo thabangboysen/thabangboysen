@@ -3,6 +3,8 @@
   ONE file only: paste this into README.md in your PUBLIC repo
   named exactly "thabangboysen". No other files needed.
   Lines marked EDIT are yours to change.
+  Every project below has a banner image with the project's name.
+  Click the banner and it opens the project.
 ============================================================= -->
 
 <div align="center">
@@ -40,17 +42,39 @@ I care about projects with a real purpose: things that real people can open, use
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:34C3BC,50:F0B94F,100:F0A7CE&height=3&section=header" width="70%" alt="" /></div>
 
-## 🚀 Featured Project
+## 🚀 My Projects
+
+<p align="center"><i>Click any project banner to open it.</i></p>
+
+<!-- Each project = one banner image wrapped in a link. To add a new repo, copy one block,
+     change the repo name in the text= part of the image URL, and change the link. -->
 
 <div align="center">
-<a href="https://mphomafolosocceracademy.vercel.app/"><img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A1A1D,55:134348,100:2A1731&height=170&section=header&text=Mpho%20Mafolo%20Soccer%20Academy&fontSize=40&fontColor=F6D58E&fontAlignY=42&desc=Informational%20%26%20promotional%20website%20for%20a%20football%20academy&descSize=17&descColor=F3DDEA&descAlignY=66&stroke=34C3BC&strokeWidth=3" alt="Mpho Mafolo Soccer Academy website" /></a>
+
+<!-- PROJECT 1: mphomafolosocceracademy -->
+<a href="https://mphomafolosocceracademy.vercel.app/">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A1A1D,55:134348,100:2A1731&height=170&section=header&text=Mpho%20Mafolo%20Soccer%20Academy&fontSize=40&fontColor=F6D58E&fontAlignY=42&desc=Informational%20%26%20promotional%20website%20for%20a%20football%20academy&descSize=17&descColor=F3DDEA&descAlignY=66&stroke=34C3BC&strokeWidth=3" alt="Mpho Mafolo Soccer Academy: click to open the live website" />
+</a>
 
 <br/>
 
 <a href="https://mphomafolosocceracademy.vercel.app/"><img src="https://img.shields.io/badge/%E2%9A%BD%20VISIT%20THE%20LIVE%20SITE-1B5E63?style=for-the-badge&labelColor=134348" alt="Visit the live site" /></a>
-<img src="https://img.shields.io/badge/WEBSITE-134348?style=for-the-badge" alt="Website" />
+<a href="https://github.com/thabangboysen/mphomafolosocceracademy"><img src="https://img.shields.io/badge/VIEW%20THE%20CODE-134348?style=for-the-badge&logo=github&logoColor=white" alt="View the code on GitHub" /></a>
 <img src="https://img.shields.io/badge/MULTI--PAGE-C58DB5?style=for-the-badge" alt="Multi-page" />
 <img src="https://img.shields.io/badge/DEPLOYED%20ON-VERCEL-D9A441?style=for-the-badge&logo=vercel&logoColor=black" alt="Deployed on Vercel" />
+
+<br/><br/>
+
+<!-- PROJECT 2: Boysen-s_DarkWeb -->
+<a href="https://github.com/thabangboysen/Boysen-s_DarkWeb">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A1A1D,55:1B5E63,100:C58DB5&height=170&section=header&text=Boysen%27s%20DarkWeb&fontSize=44&fontColor=F6D58E&fontAlignY=42&desc=Personal%20landing%20page%20for%20my%20web%20development%20services&descSize=17&descColor=F3DDEA&descAlignY=66&stroke=34C3BC&strokeWidth=3" alt="Boysen's DarkWeb: click to open the project" />
+</a>
+
+<br/>
+
+<a href="https://github.com/thabangboysen/Boysen-s_DarkWeb"><img src="https://img.shields.io/badge/OPEN%20THE%20PROJECT-1B5E63?style=for-the-badge&logo=github&logoColor=white&labelColor=134348" alt="Open the project" /></a>
+<img src="https://img.shields.io/badge/RESPONSIVE-C58DB5?style=for-the-badge" alt="Responsive" />
+<img src="https://img.shields.io/badge/HTML-D9A441?style=for-the-badge&logo=html5&logoColor=black" alt="HTML" />
 
 </div>
 
@@ -70,6 +94,10 @@ The site is built around the way families actually look for a football academy:
 - 💬 **One-tap membership:** a "Become a Member" button that opens a WhatsApp chat with the academy, making it easy for parents to sign up or ask questions straight from their phone.
 - 📱 **Social media links:** quick links to the academy's Facebook, TikTok, YouTube and Instagram so the community can follow the latest news, videos and events.
 - 🌍 **Live and always available:** deployed on Vercel, so it can be opened from anywhere, at any time.
+
+### 🌐 Boysen's DarkWeb
+
+**Boysen's DarkWeb** is a responsive personal landing page that showcases my web development services, skills and projects. It lets potential clients learn about my work, see what I can do, and get in contact with me.
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:34C3BC,50:F0B94F,100:F0A7CE&height=3&section=header" width="70%" alt="" /></div>
 
